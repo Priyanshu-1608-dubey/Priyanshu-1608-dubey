@@ -1,16 +1,19 @@
-## Hi there 👋
+# 💫 About Me:
+🔭 I’m currently working on<br>Real-world data analytics and web development projects at Amodox, contributing to practical, industry-level problem solving.<br><br>🎓 Experience<br><br>Data Analytics Intern – Oasis Infobyte<br>Completed a 1-month internship focused on data analysis, hands-on learning, and real-world problem solving.<br><br>Junior Data Analyst (Financial Analytics with Python) Intern – YuvaIntern<br>Completed a 6-week remote internship working on data cleaning, data visualization, and financial data analysis using Python.<br><br>👯 I’m looking to collaborate on<br>Data analytics projects, web development applications, and beginner-friendly open-source contributions.<br><br>🤝 I’m looking for help with<br>Advanced data analytics techniques, project optimization, and full-stack development best practices.<br><br>🌱 I’m currently learning<br>Advanced Python, SQL, React.js, backend fundamentals, and practical data analytics methodologies.<br><br>💬 Ask me about<br>Python, data cleaning, data analysis, SQL, HTML, CSS, JavaScript, and internship-level projects.<br><br>⚡ Fun fact<br>I enjoy turning raw data into meaningful insights and building clean, efficient applications 🚀
 
-<!--
-**Priyanshu-1608-dubey/Priyanshu-1608-dubey** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/priyanshu-dubey-830756363) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:dubeypriyanshu58463@gmail.com) 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# 💻 Tech Stack:
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=flat-square&logo=r&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=flat-square&logo=.net&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=flat-square&logo=django&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=flat-square&logo=flask&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat-square&logo=tailwind-css&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat-square&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat-square&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=flat-square&logo=postgresql&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=flat-square&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat-square&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat-square&logo=pandas&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat-square&logo=scikit-learn&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat-square&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat-square&logo=github&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=flat-square&logo=powerbi&logoColor=black)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Priyanshu-1608-dubey&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=Priyanshu-1608-dubey&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Priyanshu-1608-dubey&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=Priyanshu-1608-dubey&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
+---
+[![](https://visitcount.itsvg.in/api?id=Priyanshu-1608-dubey&icon=0&color=0)](https://visitcount.itsvg.in)
