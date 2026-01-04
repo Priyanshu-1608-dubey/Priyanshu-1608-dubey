@@ -2,7 +2,7 @@
 
 # 💫 Hi, I'm Priyanshu Dubey
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&pause=1000&color=00F7F7&center=true&vCenter=true&width=700&lines=Data+Analyst+%F0%9F%93%8A;Data+Science+Intern+%F0%9F%93%88;Python+%7C+SQL+%7C+EDA;Aspiring+Data+Scientist" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&pause=1000&color=00F7F7&center=true&vCenter=true&width=750&lines=Data+Analytics+📊;Data+Science+📈;Python+|+SQL+|+EDA;Aspiring+Data+Scientist" />
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&section=header&text=Welcome%20to%20My%20GitHub&fontSize=40&fontAlignY=30&fontColor=fff" width="100%"/>
 
@@ -16,23 +16,23 @@
 
 ## 🚀 About Me
 
-> **Data Analyst & Data Science Intern** with hands-on experience in **data analysis, financial analytics, and data visualization**, delivering actionable insights from real-world datasets.
+> **Data Analytics & Data Science Intern** with hands-on experience in **EDA, financial analytics, and data visualization**, converting raw data into meaningful insights.
 
 - 🔭 Currently working as **Data Science & Analytics Intern at Amdox Technologies**
-- 💼 Completed internships at **Yuva Intern** & **Oasis Infobyte**
-- 📊 Strong in **Data Cleaning, EDA & Financial Data Analysis**
-- 🧠 Skilled in **Python, SQL, Pandas, NumPy, Matplotlib & Streamlit**
-- 🌱 Learning **Advanced Data Analytics & Data Science Concepts**
-- 💬 Ask me about **Python, SQL, Data Analysis & Visualization**
-- ⚡ Fun fact: **I enjoy turning raw data into meaningful insights**
+- 💼 Internship experience with **Amdox Technologies, Yuva Intern & Oasis Infobyte**
+- 📊 Strong in **Data Cleaning, EDA & Business Insights**
+- 🧠 Skills: **Python, SQL, Pandas, NumPy, Matplotlib, Streamlit**
+- 🌱 Learning **Advanced Data Analytics & Data Science**
+- 💬 Ask me about **Data Analytics, Python, SQL & Visualization**
+- ⚡ Fun fact: *Data tells stories — I love finding them*
 
 <br clear="right"/>
 
 ---
 
-<div align="center">
-
 ## 🤝 Connect With Me
+
+<div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/priyanshu-dubey-830756363)
 [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Priyanshu-1608-dubey)
@@ -42,31 +42,64 @@
 
 ---
 
-## 💼 Experience & Projects
+## 💼 Professional Experience
 
 ### 📌 Data Science & Analytics Intern  
 **Amdox Technologies** *(Dec 2025 – Present)*  
-- Working on real-world datasets  
-- Performing data cleaning, EDA & visualization  
-- Supporting business decision-making with insights  
+- Worked on real-world datasets  
+- Performed data cleaning, EDA & visualization  
+- Delivered insights to support business decisions  
 
 ### 📌 Junior Data Analyst – Financial Analytics  
 **Yuva Intern** *(Dec 2025)*  
 - Analyzed financial datasets for risk & return  
-- Identified trends using EDA  
-- Visualized insights using Matplotlib  
+- Identified trends using EDA techniques  
+- Created visual insights using Matplotlib  
 
 ### 📌 Data Analyst Intern  
 **Oasis Infobyte** *(Nov 2025 – Dec 2025)*  
-- Sales Data Analysis using Python & SQL  
+- Sales data analysis using Python & SQL  
 - Identified top-performing products & revenue trends  
-- Performed statistical analysis & visualization  
+- Applied statistical analysis & visualization  
+
+---
+
+## 📂 Projects
+
+### 📌 Sales Data Analysis Project  
+**Company: Oasis Infobyte**  
+**Tech Stack:** Python | Pandas | Matplotlib | SQL  
+- Cleaned and analyzed large sales datasets  
+- Identified revenue trends & customer purchasing behavior  
+- Performed Exploratory Data Analysis (EDA)  
+- Generated insights to support business decisions  
+
+---
+
+### 📌 Financial Analytics Project  
+**Company: Yuva Intern**  
+**Tech Stack:** Python | Excel | Pandas | Matplotlib  
+- Analyzed financial datasets for risk & return assessment  
+- Identified profit, loss & growth trends using EDA  
+- Created visual reports for better financial insights  
+
+---
+
+### 📌 Data Analytics Internship Projects  
+**Company: Amdox Technologies**  
+**Tech Stack:** Python | SQL | Pandas | NumPy | Visualization  
+- Worked on real-world business datasets  
+- Performed data cleaning, transformation & EDA  
+- Extracted insights to support data-driven decisions  
+
+---
 
 ### 📌 College Project – Plywood Marketplace  
-**React | TypeScript | TailwindCSS | Vite**  
-- Built a responsive e-commerce platform  
-- Implemented product listing, cart & authentication  
-- Used modern frontend architecture  
+**Organization:** Academic Project  
+**Tech Stack:** React | TypeScript | TailwindCSS | Vite  
+- Built a responsive e-commerce web application  
+- Implemented authentication, cart & product listing features  
+- Followed modern frontend development practices  
 
 ---
 
@@ -78,18 +111,12 @@
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-### 📊 Data Analysis & Visualization
+### 📊 Data Analytics & Visualization
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-ffffff?style=for-the-badge&logo=Matplotlib&logoColor=black)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FE4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
 ![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-
-### 🛠 Tools & Platforms
-![GitHub](https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white)
-![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
-![VS Code](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![PyCharm](https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white)
 
 ---
 
@@ -97,13 +124,11 @@
 
 - Python 101 for Data Science – IBM  
 - SQL for Data Analysis – Simplilearn  
-- AI for Beginners – HP LIFE  
 - Tata Data Visualisation Program  
+- AI for Beginners – HP LIFE  
 - AI Appreciate Badge – AI For All  
 
 ---
-
-<div align="center">
 
 ## 📈 GitHub Stats
 
@@ -115,4 +140,3 @@
 
 ⭐ **From [Priyanshu Dubey](https://github.com/Priyanshu-1608-dubey)**
 
-</div>
