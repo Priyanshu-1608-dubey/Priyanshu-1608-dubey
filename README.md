@@ -811,20 +811,6 @@ Fundamental Python programming and problem-solving skills.
 
 ---
 
-# 📊 GitHub Statistics
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Priyanshu-1608-dubey&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github&include_all_commits=true" width="49%"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Priyanshu-1608-dubey&layout=compact&theme=github_dark&hide_border=true&langs_count=8" width="40%"/>
-
-<br><br>
-
-<img src="https://streak-stats.demolab.com?user=Priyanshu-1608-dubey&theme=github-dark-blue&hide_border=true" width="70%"/>
-
-</div>
-
 # 💡 My Data Philosophy
 
 > **Data is not just numbers.**
