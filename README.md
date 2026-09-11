@@ -1,23 +1,3 @@
-Haan bhai ❤️ ab samajh gaya **exactly kya chahiye**.
-
-Tumhe normal README nahi chahiye — **ek bada, premium, proper portfolio-type GitHub profile** chahiye. Upar tumhari photo, bada hero section, badges, experience, projects, skills, education, certifications, GitHub stats, roadmap, etc. **Aur pura code ek hi block mein**, taaki seedha copy-paste kar sako.
-
-Maine tumhare uploaded README ke existing content ko base rakha hai. 
-
-### Photo
-
-Repository mein ye structure rakhna:
-
-```text
-Priyanshu-1608-dubey/
-├── README.md
-└── assets/
-    └── priyanshu.jpg
-```
-
-**Ab ye complete final design hai — ek hi code block:**
-
-````markdown
 <div align="center">
 
 <img src="assets/priyanshu.jpg" width="190" alt="Priyanshu Dubey"/>
