@@ -829,28 +829,6 @@ Fundamental Python programming and problem-solving skills.
 
 </div>
 
----
-
-# 🏆 GitHub Achievements
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Priyanshu-1608-dubey&theme=darkhub&no-frame=true&no-bg=true&margin-w=12&row=1&column=7"/>
-
-</div>
-
----
-
-# 📈 Contribution Activity
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Priyanshu-1608-dubey&theme=github-compact&hide_border=true&area=true&custom_title=Priyanshu's%20Contribution%20Graph" width="100%"/>
-
-</div>
-
----
-
 # 💡 My Data Philosophy
 
 > **Data is not just numbers.**
