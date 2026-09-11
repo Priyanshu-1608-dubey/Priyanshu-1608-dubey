@@ -2,7 +2,7 @@
 
 # 👋 Hi, I'm **Priyanshu Dubey**
 
-### `MCA'28`  |  `Data Analytics`  |  `Aspiring Data Scientist`
+### `MCA'28` | `Data Analytics` | `Aspiring Data Scientist`
 
 <p>
 A curious learner focused on <b>Data Analytics, Data Science & Technology</b>.<br>
@@ -25,7 +25,22 @@ I enjoy transforming data into meaningful insights and solving real-world proble
 
 <br><br>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=180&section=header&text=Data%20%7C%20Insights%20%7C%20Growth&fontSize=38&fontColor=ffffff&fontAlignY=35" width="100%"/>
+<table align="center">
+<tr>
+<td align="center" width="900">
+
+<img src="https://img.shields.io/badge/DATA%20ANALYTICS-0D1117?style=for-the-badge&logo=googleanalytics&logoColor=58A6FF" height="42"/>
+
+### `Turning Data into Insights` • `Building with Purpose`
+
+<img src="https://img.shields.io/badge/Python-1F6FEB?style=flat-square&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/SQL-238636?style=flat-square&logo=postgresql&logoColor=white"/>
+<img src="https://img.shields.io/badge/Analytics-8957E5?style=flat-square&logo=googleanalytics&logoColor=white"/>
+<img src="https://img.shields.io/badge/Data%20Science-F78166?style=flat-square&logo=databricks&logoColor=white"/>
+
+</td>
+</tr>
+</table>
 
 </div>
 
@@ -97,7 +112,7 @@ I'm always open to **learning, collaboration and opportunities** in Data Analyti
 
 ## ⚽ Sports Analyst — Hudl India Pvt Ltd
 
-**April 2026 – May 2026**
+**April 2026 – May 2026**  
 📍 Goregaon, Maharashtra, India
 
 Worked with football match data and sports analytics workflows.
@@ -111,7 +126,7 @@ Worked with football match data and sports analytics workflows.
 * Maintained data quality
 * Worked with structured football match data
 
-**Core Areas:**
+**Core Areas:**  
 `Sports Analytics` `Football Data` `Data Validation` `Quality Assurance` `Performance Analysis`
 
 ---
@@ -130,7 +145,7 @@ Worked on practical data analysis and reporting activities using real-world data
 * Assisted with data processing
 * Supported reporting and analytical workflows
 
-**Core Areas:**
+**Core Areas:**  
 `Python` `Excel` `Data Cleaning` `EDA` `Reporting` `Data Processing`
 
 ---
@@ -150,7 +165,7 @@ Worked on practical financial analytics using Python.
 * Data visualization
 * Analytical reporting
 
-**Core Areas:**
+**Core Areas:**  
 `Financial Analytics` `Python` `Data Analysis`
 
 ---
@@ -169,7 +184,7 @@ Worked on practical data analytics activities and developed hands-on experience 
 * Business insights
 * Practical analytics workflows
 
-**Core Areas:**
+**Core Areas:**  
 `Data Analytics` `EDA` `Visualization` `Business Insights`
 
 ---
@@ -223,12 +238,12 @@ A financial analytics project focused on understanding market data, stock perfor
 
 ### 📐 Metrics Explored
 
-| Metric           | Purpose              |
-| ---------------- | -------------------- |
-| **VaR**          | Risk estimation      |
-| **Beta**         | Market sensitivity   |
+| Metric | Purpose |
+| --- | --- |
+| **VaR** | Risk estimation |
+| **Beta** | Market sensitivity |
 | **Sharpe Ratio** | Risk-adjusted return |
-| **Returns**      | Performance analysis |
+| **Returns** | Performance analysis |
 
 ---
 
@@ -268,329 +283,3 @@ Exploratory Analysis
 Pattern Identification
        ↓
 Fraud Investigation
-```
-
----
-
-<div align="center">
-
-### 💬 SENTIMENT ANALYSIS
-
-`Python` `NLTK` `TextBlob` `Dash` `Seaborn`
-
-</div>
-
-A text analytics project focused on understanding sentiment from textual data.
-
-### 🔍 Features
-
-* Text preprocessing
-* Natural Language Processing
-* Sentiment classification
-* Data visualization
-* Interactive dashboard
-* Sentiment insights
-
----
-
-<div align="center">
-
-### 🛒 PLYWOOD MARKETPLACE
-
-`React` `TypeScript` `Vite` `TailwindCSS` `Drizzle ORM`
-
-</div>
-
-An academic web application developed as a marketplace platform for plywood products.
-
-### 🚀 Features
-
-* Product listing
-* Shopping cart
-* Authentication
-* Responsive user interface
-* Modern frontend architecture
-* Product-focused marketplace experience
-
----
-
-# 🧰 Technical Skills
-
-## 🐍 Programming & Data Analysis
-
-<p>
-
-<img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/>
-<img src="https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=postgresql&logoColor=white"/>
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
-<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
-
-</p>
-
-## 📊 Visualization & Business Intelligence
-
-<p>
-
-<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
-<img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
-<img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/>
-
-</p>
-
-## 🛠️ Development & Tools
-
-<p>
-
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-<img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
-
-</p>
-
----
-
-# 🧠 Core Competencies
-
-<table>
-<tr>
-<td>
-
-### 📊 Analytics
-
-* Data Analysis
-* Data Cleaning
-* EDA
-* KPI Analysis
-* Reporting
-
-</td>
-
-<td>
-
-### 📈 Business
-
-* Business Analysis
-* Statistics
-* Research Skills
-* Insight Generation
-* Decision Support
-
-</td>
-
-<td>
-
-### 🔬 Data Science
-
-* Statistical Thinking
-* Machine Learning
-* Predictive Analytics
-* Data Visualization
-* Problem Solving
-
-</td>
-</tr>
-</table>
-
----
-
-# 🎓 Education
-
-## 🎓 Master of Computer Applications — MCA
-
-**Savitribai Phule Pune University**
-
-`September 2026 – April 2028`
-
-**Field:** Computer Science
-
----
-
-## 🎓 Bachelor of Science — Information Technology
-
-**University of Mumbai**
-
-`June 2022 – April 2025`
-
----
-
-## 🏫 Higher Secondary Education
-
-**Maharashtra State Board of Secondary and Higher Secondary Education**
-
-`July 2020 – April 2022`
-
-**Field:** Computer Science
-
----
-
-## 🏫 Secondary Education
-
-**Maharashtra State Board of Secondary and Higher Secondary Education**
-
-`June 2010 – April 2020`
-
----
-
-# 📜 Certifications & Learning
-
-### 🏆 Tata Data Visualisation Job Simulation
-
-**Tata — Data Visualisation: Empowering Business with Effective Insights**
-
----
-
-### 🐍 Python 101 for Data Science
-
-**IBM**
-
----
-
-### 🗃️ SQL for Data Analysis
-
-Focused on SQL concepts and analytical querying.
-
----
-
-### 📊 Data Analytics Essentials
-
-Focused on fundamental data analytics concepts and practices.
-
----
-
-### 🐍 Python — Basic
-
-Fundamental Python programming and problem-solving skills.
-
----
-
-# 📚 Learning Journey
-
-```text
-2025
-│
-├── B.Sc. IT Graduate
-├── Data Analytics Internships
-├── Financial Analytics
-└── Python & SQL
-        │
-        ▼
-2026
-│
-├── Sports Analytics — Hudl
-├── Data Science & Analytics
-├── MCA Journey Begins
-└── Advanced Analytics
-        │
-        ▼
-2027+
-│
-├── Machine Learning
-├── Data Science
-├── Business Intelligence
-└── Real-World Data Projects
-```
-
----
-
-# 🎯 Areas of Interest
-
-<table>
-<tr>
-<td align="center">📊<br><b>Data Analytics</b></td>
-<td align="center">📈<br><b>Business Analytics</b></td>
-<td align="center">💰<br><b>Financial Analytics</b></td>
-</tr>
-
-<tr>
-<td align="center">⚽<br><b>Sports Analytics</b></td>
-<td align="center">🤖<br><b>Data Science</b></td>
-<td align="center">📉<br><b>Data Visualization</b></td>
-</tr>
-</table>
-
----
-
-# 🔄 How I Approach Data
-
-```text
-             ┌──────────────┐
-             │   Raw Data   │
-             └──────┬───────┘
-                    ↓
-             ┌──────────────┐
-             │ Data Cleaning│
-             └──────┬───────┘
-                    ↓
-             ┌──────────────┐
-             │     EDA      │
-             └──────┬───────┘
-                    ↓
-             ┌──────────────┐
-             │  Statistics  │
-             └──────┬───────┘
-                    ↓
-             ┌──────────────┐
-             │ Visualization│
-             └──────┬───────┘
-                    ↓
-             ┌──────────────┐
-             │   Insights   │
-             └──────┬───────┘
-                    ↓
-             ┌──────────────┐
-             │   Decisions  │
-             └──────────────┘
-```
-
----
-
-# 📌 What I'm Looking For
-
-I'm interested in opportunities where I can:
-
-* Work with real-world datasets
-* Apply analytical thinking
-* Build practical data solutions
-* Learn from experienced professionals
-* Contribute to data-driven decision making
-* Grow from Data Analytics toward Data Science
-
----
-
-# 🤝 Let's Connect
-
-<div align="center">
-
-### I'm always open to learning, collaborating and connecting with people in the data community.
-
-<br>
-
-<a href="https://www.linkedin.com/in/priyanshudubey1608">
-<img src="https://img.shields.io/badge/LinkedIn-PriyAnshu%20Dubey-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="https://github.com/Priyanshu-1608-dubey">
-<img src="https://img.shields.io/badge/GitHub-Priyanshu--1608--dubey-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-<a href="mailto:dubeypriyanshu58463@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-dubeypriyanshu58463%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-</div>
-
----
-
-<div align="center">
-
-## 💡 Learn. Analyze. Build. Grow.
-
-**Thanks for visiting my GitHub profile!**
-
-⭐ Feel free to explore my repositories and projects.
-
-</div>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=140&section=footer" width="100%"/>
