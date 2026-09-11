@@ -1041,7 +1041,3 @@ I'm interested in opportunities where I can:
 
 </div>
 ```
-
-**Bhai isme main cheez:** `assets/priyanshu.jpg` mein tumhari photo upload kar dena. Uske baad **sirf ye ek `README.md` paste** karna hai. Photo top par aa jayegi.
-
-Aur haan — maine jaan-bujhkar **fake numbers (fake followers, fake project counts, fake GitHub stats)** nahi daale. Jo GitHub stats hain woh automatically tumhare actual GitHub account se load honge.
