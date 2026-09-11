@@ -54,15 +54,15 @@ I am passionate about turning raw data into meaningful insights and using data-d
 
 Currently, I am developing my skills in:
 
-* 🐍 Python
-* 🗃️ SQL
-* 📊 Excel
-* 🧮 Pandas & NumPy
-* 📈 Data Visualization
-* 📐 Statistics
-* 💼 Business Analysis
-* 🔎 Exploratory Data Analysis
-* 🤖 Machine Learning
+- 🐍 Python
+- 🗃️ SQL
+- 📊 Excel
+- 🧮 Pandas & NumPy
+- 📈 Data Visualization
+- 📐 Statistics
+- 💼 Business Analysis
+- 🔎 Exploratory Data Analysis
+- 🤖 Machine Learning
 
 I believe in **learning by doing** and continuously improving through practical projects, problem-solving and real-world applications.
 
@@ -82,12 +82,12 @@ I'm always open to **learning, collaboration and opportunities** in Data Analyti
 
 ### 📊 Data Analytics
 
-* Data Cleaning
-* Exploratory Data Analysis
-* Data Visualization
-* Business Analysis
-* Reporting
-* Statistics
+- Data Cleaning
+- Exploratory Data Analysis
+- Data Visualization
+- Business Analysis
+- Reporting
+- Statistics
 
 </td>
 
@@ -95,12 +95,12 @@ I'm always open to **learning, collaboration and opportunities** in Data Analyti
 
 ### 🤖 Data Science
 
-* Statistical Analysis
-* Machine Learning
-* Predictive Analytics
-* Financial Analytics
-* Research
-* Problem Solving
+- Statistical Analysis
+- Machine Learning
+- Predictive Analytics
+- Financial Analytics
+- Research
+- Problem Solving
 
 </td>
 </tr>
@@ -119,12 +119,12 @@ Worked with football match data and sports analytics workflows.
 
 ### Responsibilities
 
-* Tagged football match events with high accuracy
-* Performed data validation and quality assurance checks
-* Analyzed player and match performance data
-* Prepared performance reports
-* Maintained data quality
-* Worked with structured football match data
+- Tagged football match events with high accuracy
+- Performed data validation and quality assurance checks
+- Analyzed player and match performance data
+- Prepared performance reports
+- Maintained data quality
+- Worked with structured football match data
 
 **Core Areas:**  
 `Sports Analytics` `Football Data` `Data Validation` `Quality Assurance` `Performance Analysis`
@@ -139,11 +139,11 @@ Worked on practical data analysis and reporting activities using real-world data
 
 ### Responsibilities
 
-* Cleaned and analyzed datasets using **Python and Excel**
-* Performed **Exploratory Data Analysis (EDA)**
-* Built reports to support business decision-making
-* Assisted with data processing
-* Supported reporting and analytical workflows
+- Cleaned and analyzed datasets using **Python and Excel**
+- Performed **Exploratory Data Analysis (EDA)**
+- Built reports to support business decision-making
+- Assisted with data processing
+- Supported reporting and analytical workflows
 
 **Core Areas:**  
 `Python` `Excel` `Data Cleaning` `EDA` `Reporting` `Data Processing`
@@ -158,12 +158,12 @@ Worked on practical financial analytics using Python.
 
 ### Focus Areas
 
-* Financial data analysis
-* Market data exploration
-* Performance analysis
-* Trend identification
-* Data visualization
-* Analytical reporting
+- Financial data analysis
+- Market data exploration
+- Performance analysis
+- Trend identification
+- Data visualization
+- Analytical reporting
 
 **Core Areas:**  
 `Financial Analytics` `Python` `Data Analysis`
@@ -178,11 +178,11 @@ Worked on practical data analytics activities and developed hands-on experience 
 
 ### Focus Areas
 
-* Data analysis
-* Exploratory analysis
-* Data visualization
-* Business insights
-* Practical analytics workflows
+- Data analysis
+- Exploratory analysis
+- Data visualization
+- Business insights
+- Practical analytics workflows
 
 **Core Areas:**  
 `Data Analytics` `EDA` `Visualization` `Business Insights`
@@ -203,13 +203,13 @@ A practical data analytics project focused on understanding sales performance an
 
 ### 🔍 Analysis Performed
 
-* Data cleaning and preprocessing
-* Exploratory Data Analysis
-* Sales performance analysis
-* Revenue trend analysis
-* Product-level analysis
-* Data visualization
-* Business insight generation
+- Data cleaning and preprocessing
+- Exploratory Data Analysis
+- Sales performance analysis
+- Revenue trend analysis
+- Product-level analysis
+- Data visualization
+- Business insight generation
 
 ### 🎯 Objective
 
@@ -229,17 +229,17 @@ A financial analytics project focused on understanding market data, stock perfor
 
 ### 🔍 Analysis Performed
 
-* Financial data exploration
-* Stock performance analysis
-* Market benchmark comparison
-* Risk and return analysis
-* Financial performance metrics
-* Data visualization
+- Financial data exploration
+- Stock performance analysis
+- Market benchmark comparison
+- Risk and return analysis
+- Financial performance metrics
+- Data visualization
 
 ### 📐 Metrics Explored
 
 | Metric | Purpose |
-| --- | --- |
+|---|---|
 | **VaR** | Risk estimation |
 | **Beta** | Market sensitivity |
 | **Sharpe Ratio** | Risk-adjusted return |
@@ -259,13 +259,13 @@ An analytical project focused on exploring insurance claim data and identifying 
 
 ### 🔍 Work Performed
 
-* Data preparation
-* Data transformation
-* Feature creation
-* Exploratory analysis
-* Claim amount investigation
-* Pattern identification
-* Data visualization
+- Data preparation
+- Data transformation
+- Feature creation
+- Exploratory analysis
+- Claim amount investigation
+- Pattern identification
+- Data visualization
 
 ### 📊 Analytical Process
 
