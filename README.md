@@ -1,145 +1,369 @@
 <div align="center">
 
-# 💫 Hi, I'm Priyanshu Dubey
+# 👋 Hi, I'm Priyanshu Dubey
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=28&pause=900&color=38F2FF&center=true&vCenter=true&width=850&lines=Data+Analyst+📊;Data+Scientist+📈;Turning+Data+Into+Insights;Python+|+SQL+|+EDA+|+Analytics;Aspiring+Data+Science+Professional" />
+### 📊 Data Analytics | Aspiring Data Scientist
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=190&section=header&text=Welcome%20to%20My%20GitHub&fontSize=42&fontAlignY=30&fontColor=fff" width="100%"/>
+**MCA'28 | Data Analytics | Data Science**
+
+I enjoy working with data, discovering meaningful patterns,
+and turning raw information into practical, data-driven insights.
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&pause=1000&color=38F2FF&center=true&vCenter=true&width=850&lines=Data+Analytics+📊;Aspiring+Data+Scientist+📈;Exploring+Data+Driven+Solutions;Python+%7C+SQL+%7C+Excel;Learning+Machine+Learning;Turning+Data+Into+Insights" />
+
+<br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&section=header&text=Welcome%20to%20My%20GitHub&fontSize=40&fontAlignY=32&fontColor=ffffff" width="100%"/>
 
 </div>
-
-<br/>
-
-<img align="right" width="380" src="https://user-images.githubusercontent.com/74038190/229223156-0cbdaba9-3128-4d8e-8719-b6b4cf741b67.gif"/>
 
 ---
 
-## 🚀 About Me
+## 👨‍💻 About Me
 
-> **Data Analyst & Data Science Intern** with hands-on experience in **EDA, financial analytics, dashboards, and data visualization**, focused on extracting actionable business insights.
+Hi, I'm **Priyanshu Dubey**, an **MCA student** with a strong interest in **Data Analytics, Data Science and Technology**.
 
-- 🔭 Currently working as **Data Science & Analytics Intern at Amdox Technologies**
-- 💼 Internship experience with **Amdox Technologies, Yuva Intern & Oasis Infobyte**
-- 📊 Expertise in **Data Cleaning, EDA, KPI Analysis & Reporting**
-- 🧠 Strong in **Python, SQL, Pandas, NumPy, Matplotlib, Streamlit**
-- 🌱 Exploring **Advanced Analytics, Machine Learning & Business Intelligence**
-- 💬 Ask me about **Data Analytics, Python, SQL, EDA & Dashboards**
-- ⚡ Fun fact: *I love simplifying complex data problems*
+My focus is on understanding data, identifying patterns, generating insights and solving real-world problems using analytical approaches.
 
-<br clear="right"/>
+I'm currently strengthening my skills in **Python, SQL, Excel, Pandas, NumPy, Data Analysis, Data Visualization, Statistics and Business Analysis**, while also exploring **Machine Learning**.
+
+I believe in **learning by doing** — building practical projects, working with real-world datasets and continuously improving my problem-solving skills.
+
+### 🎯 Career Goal
+
+My goal is to build a strong career as a **Data Analyst** and gradually grow into the field of **Data Science**.
 
 ---
 
-## 🤝 Connect With Me
+## 🚀 What I'm Currently Focused On
 
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/priyanshu-dubey-830756363)
-[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Priyanshu-1608-dubey)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dubeypriyanshu58463@gmail.com)
-
-</div>
+* 📊 Data Analytics & Exploratory Data Analysis
+* 🐍 Python for Data Analysis
+* 🗃️ SQL & Data Querying
+* 📈 Data Visualization & Reporting
+* 📋 Excel & Business Analysis
+* 📐 Statistics & Analytical Thinking
+* 🤖 Exploring Machine Learning
+* 💡 Building practical data-driven projects
 
 ---
 
 ## 💼 Professional Experience
 
-### 📌 Data Science & Analytics Intern  
-**Amdox Technologies** *(Dec 2025 – Present)*  
-- Worked on real-world business datasets  
-- Performed data cleaning, transformation & EDA  
-- Built analytical reports to support decision-making  
+### 🏟️ Sports Analyst — Hudl India Pvt Ltd
 
-### 📌 Junior Data Analyst – Financial Analytics  
-**Yuva Intern** *(Dec 2025)*  
-- Analyzed financial datasets for risk & return  
-- Identified trends and performance metrics  
-- Visualized insights using Matplotlib  
+**April 2026 – May 2026 | Goregaon, Maharashtra**
 
-### 📌 Data Analyst Intern  
-**Oasis Infobyte** *(Nov 2025 – Dec 2025)*  
-- Sales and revenue analysis using Python & SQL  
-- Identified top-performing products  
-- Applied statistical analysis & visualization  
+* Tagged football match events with high accuracy
+* Performed data validation and quality assurance checks
+* Analyzed player and match performance data
+* Prepared performance reports
+* Maintained data quality throughout the workflow
+
+**Focus:** Sports Analytics • Data Quality • Match Analysis • Reporting
 
 ---
 
-## 📂 Projects
+### 📊 Data Science & Analytics Intern — Amdox Technologies
 
-### 📌 Sales Data Analysis Project  
-**Company:** Oasis Infobyte  
-**Tech Stack:** Python | Pandas | Matplotlib | SQL  
-- Cleaned and analyzed large sales datasets  
-- Identified customer behavior & revenue trends  
-- Performed EDA for business insights  
+**December 2025 – March 2026**
 
----
+* Cleaned and analyzed datasets using Python and Excel
+* Performed Exploratory Data Analysis (EDA)
+* Built reports to support business decision-making
+* Assisted with data processing and reporting
 
-### 📌 Financial Analytics Project  
-**Company:** Yuva Intern  
-**Tech Stack:** Python | Excel | Pandas | Matplotlib  
-- Analyzed financial performance & profitability  
-- Identified growth trends using EDA  
-- Created visual reports  
+**Focus:** Data Cleaning • EDA • Python • Excel • Business Reporting
 
 ---
 
-### 📌 Data Analytics Internship Projects  
-**Company:** Amdox Technologies  
-**Tech Stack:** Python | SQL | Pandas | NumPy | Visualization  
-- Worked on real-world business problems  
-- Performed data cleaning & analysis  
-- Delivered data-driven insights  
+### 📈 Junior Data Analyst — Financial Analytics with Python
+
+**Yuva Intern | December 2025**
+
+* Worked on financial analytics using Python
+* Analyzed financial datasets and performance patterns
+* Applied analytical techniques to understand data
+* Worked with financial data as part of a practical internship
+
+**Focus:** Financial Analytics • Python • Data Analysis
 
 ---
 
-### 📌 College Project – Plywood Marketplace  
-**Organization:** Academic Project  
-**Tech Stack:** React | TypeScript | TailwindCSS | Vite  
-- Built a responsive e-commerce platform  
-- Implemented authentication & cart features  
-- Followed modern frontend practices  
+### 📊 Data Analyst — Oasis Infobyte
+
+**November 2025 – December 2025**
+
+* Worked on practical data analytics tasks
+* Performed data analysis and visualization
+* Worked with datasets to identify meaningful insights
+
+**Focus:** Data Analytics • Data Visualization • EDA
 
 ---
 
-## 💻 Technical Skills
+## 📂 Featured Projects
 
-### 🧑‍💻 Programming
-![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=database&logoColor=white)
+### 📊 Sales Data Analysis
 
-### 📊 Data Analytics & BI
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-ffffff?style=for-the-badge&logo=Matplotlib&logoColor=black)
-![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge)
-![Power%20BI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+**Python • SQL • Pandas • Data Visualization**
 
-### 📈 Data Science & Other Tools
-![EDA](https://img.shields.io/badge/EDA-000000?style=for-the-badge)
-![Statistics](https://img.shields.io/badge/Statistics-8E44AD?style=for-the-badge)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+A practical data analysis project focused on understanding sales performance and extracting useful business insights.
+
+**Key Areas**
+
+* Data cleaning and preprocessing
+* Exploratory Data Analysis
+* Sales and revenue analysis
+* Trend identification
+* Business insights
+* Data visualization
 
 ---
 
-## 🏆 Certifications
+### 📈 Financial Data Analysis
 
-- Python 101 for Data Science – IBM  
-- SQL for Data Analysis – Simplilearn  
-- Tata Data Visualisation Program  
-- AI for Beginners – HP LIFE  
-- AI Appreciate Badge – AI For All  
+**Python • Pandas • NumPy • Matplotlib**
+
+A financial analytics project focused on analyzing market data and understanding investment performance and risk.
+
+**Key Areas**
+
+* Financial data exploration
+* Stock performance analysis
+* Market comparison
+* Risk and return analysis
+* Data visualization
+* Analytical reporting
 
 ---
 
-## 📈 GitHub Stats
+### 🔍 Insurance Fraud Analysis
+
+**IBM Watson Studio • Data Refinery • Data Analytics**
+
+An analytical project focused on exploring insurance claim data and identifying patterns that may help in understanding potential fraudulent claims.
+
+**Key Areas**
+
+* Data preparation
+* Feature creation
+* Exploratory analysis
+* Claim amount analysis
+* Pattern identification
+* Data visualization
+
+---
+
+### 💬 Sentiment Analysis
+
+**Python • NLTK • TextBlob • Dash • Seaborn**
+
+A text analytics project designed to analyze textual information and determine sentiment.
+
+**Key Areas**
+
+* Text preprocessing
+* Sentiment classification
+* Natural Language Processing
+* Data visualization
+* Interactive dashboard
+
+---
+
+### 🛒 Plywood Marketplace
+
+**React • TypeScript • Vite • TailwindCSS • Drizzle ORM**
+
+An academic web application developed as a marketplace for plywood products.
+
+**Key Features**
+
+* Product listing
+* Shopping cart
+* Authentication
+* Responsive interface
+* Modern frontend architecture
+
+---
+
+## 🧠 Skills & Technologies
+
+### 🐍 Programming & Data Analysis
+
+<p align="left">
+
+<img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/>
+<img src="https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=postgresql&logoColor=white"/>
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+
+</p>
+
+### 📊 Analytics & Visualization
+
+<p align="left">
+
+<img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
+<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+<img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/>
+
+</p>
+
+### 📐 Analytical Skills
+
+* Exploratory Data Analysis
+* Data Cleaning
+* Data Visualization
+* Business Analysis
+* Business Statistics
+* Data Reporting
+* Research & Problem Solving
+
+### 🌱 Currently Exploring
+
+* Machine Learning
+* Advanced Data Analytics
+* Business Intelligence
+* Statistical Analysis
+* Data Science
+
+---
+
+## 🎓 Education
+
+### 🎓 Master of Computer Applications — MCA
+
+**Savitribai Phule Pune University**
+
+**September 2026 – April 2028**
+
+---
+
+### 🎓 Bachelor of Science — Information Technology
+
+**University of Mumbai**
+
+**June 2022 – April 2025**
+
+---
+
+### 🏫 Higher Secondary Education
+
+**Maharashtra State Board of Secondary and Higher Secondary Education**
+
+**Computer Science | July 2020 – April 2022**
+
+---
+
+## 📜 Certifications
+
+* 🏆 Tata — Data Visualisation: Empowering Business with Effective Insights Job Simulation
+* 🏆 SQL for Data Analysis
+* 🏆 Python 101 for Data Science
+* 🏆 Data Analytics Essentials
+* 🏆 Python (Basic)
+
+---
+
+## 📊 My Data Analytics Journey
+
+```text
+Raw Data
+    ↓
+Data Cleaning
+    ↓
+Exploratory Data Analysis
+    ↓
+Statistics & Business Analysis
+    ↓
+Data Visualization
+    ↓
+Insights & Reporting
+    ↓
+Data-Driven Decisions
+```
+
+---
+
+## 💡 Areas of Interest
+
+| Area                   | Focus                         |
+| ---------------------- | ----------------------------- |
+| 📊 Data Analytics      | Data Cleaning, EDA & Insights |
+| 📈 Business Analytics  | Trends, KPIs & Reporting      |
+| 💰 Financial Analytics | Market & Financial Data       |
+| ⚽ Sports Analytics     | Match & Performance Data      |
+| 📉 Data Visualization  | Charts, Dashboards & Reports  |
+| 🤖 Data Science        | Machine Learning & Statistics |
+
+---
+
+## 📈 GitHub Statistics
+
+<div align="center">
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Priyanshu-1608-dubey&theme=tokyonight" width="100%"/>
 
+<br><br>
+
+<img src="https://github-readme-stats.vercel.app/api?username=Priyanshu-1608-dubey&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" height="180"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Priyanshu-1608-dubey&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
+
+<br><br>
+
+<img src="https://streak-stats.demolab.com?user=Priyanshu-1608-dubey&theme=tokyonight&hide_border=true" width="70%"/>
+
+</div>
+
 ---
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&section=footer&height=140&text=Thanks%20for%20Visiting!&fontSize=30&fontColor=fff"/>
+## 🏆 GitHub Contributions
 
-⭐ **From [Priyanshu Dubey](https://github.com/Priyanshu-1608-dubey)**
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=Priyanshu-1608-dubey&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10" width="90%"/>
+
+</div>
+
+---
+
+## 🤝 Let's Connect
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/priyanshudubey1608">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://github.com/Priyanshu-1608-dubey">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="mailto:dubeyji58463@gmail.com">
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+### 💭 "Learn by doing. Improve by analyzing. Grow through consistency."
+
+⭐ **Thanks for visiting my GitHub profile!**
+
+<img src="https://komarev.com/ghpvc/?username=Priyanshu-1608-dubey&style=for-the-badge&color=38F2FF&label=PROFILE+VIEWS"/>
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&section=footer&height=140" width="100%"/>
+```
+
+**Bhai, ye version tumhare current profile ke liye kaafi stronger hai.** Specially top section mein `MCA'28 | Data Analytics | Aspiring Data Scientist` exactly tumhare LinkedIn headline ke saath align karta hai.
+
+Aur ek correction: PDF mein Amdox ke andar **“Data Science & Analytics Intern”** aur **“Data Science Specialist”** dono entries listed hain, isliye maine README mein unko unnecessarily duplicate nahi kiya—ek clean experience entry rakhi hai.
