@@ -1,6 +1,5 @@
 <div align="center">
-<img src="assets/priyanshu.jpg" width="180" alt="Priyanshu Dubey"/>
-
+       
 # 👋 Hi, I'm **Priyanshu Dubey**
 
 ### `MCA'28`  |  `Data Analytics`  |  `Aspiring Data Scientist`
