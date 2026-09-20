@@ -26,7 +26,10 @@
 
 <br><br>
 
-<img src="https://komarev.com/ghpvc/?username=Priyanshu-1608-dubey&label=PROFILE%20VIEWS&color=1F6FEB&style=for-the-badge"/>
+<img
+  src="https://komarev.com/ghpvc/?username=Priyanshu-1608-dubey&label=PROFILE%20VIEWS&color=1F6FEB&style=for-the-badge"
+  alt="Profile Views"
+/>
 
 </div>
 
@@ -87,12 +90,29 @@ Currently developing my skills in:
 
 ---
 
+# 🚀 What I'm Working On
+
+<div align="center">
+
+| Focus Area | Current Work |
+|---|---|
+| 📊 Data Analytics | EDA, dashboards & business insights |
+| 🐍 Python | Data analysis & automation |
+| 🗃️ SQL | Queries, data processing & analysis |
+| 📈 Power BI | Interactive dashboards & reporting |
+| 🤖 Machine Learning | Practical ML projects |
+| 🎓 MCA | Computer Science & Data Science |
+
+</div>
+
+---
+
 # 💼 Experience
 
 ### ⚽ Sports Analyst — Hudl India Pvt Ltd
 **April 2026 – May 2026 | Goregaon, Maharashtra**
 
-- Tagged football match events with accuracy
+- Tagged football match events
 - Performed data validation and quality checks
 - Worked with player and match performance data
 - Prepared performance reports
@@ -140,7 +160,7 @@ Worked on data cleaning, exploratory analysis, visualization and business insigh
 
 Analyzed sales data to identify revenue trends, product performance and business insights.
 
-**Key Work:**
+**Key Work**
 - Data Cleaning
 - EDA
 - Sales Performance Analysis
@@ -154,7 +174,7 @@ Analyzed sales data to identify revenue trends, product performance and business
 
 Financial analytics project focused on stock performance and risk-related metrics.
 
-**Metrics:**
+**Metrics**
 - VaR
 - Beta
 - Sharpe Ratio
@@ -167,7 +187,7 @@ Financial analytics project focused on stock performance and risk-related metric
 
 Explored insurance claim data to identify patterns associated with potentially fraudulent claims.
 
-**Key Work:**
+**Key Work**
 - Data Preparation
 - Data Transformation
 - Feature Creation
@@ -182,7 +202,7 @@ Explored insurance claim data to identify patterns associated with potentially f
 
 Text analytics project focused on sentiment classification and interactive visualization.
 
-**Key Work:**
+**Key Work**
 - Text Preprocessing
 - NLP
 - Sentiment Classification
@@ -196,7 +216,7 @@ Text analytics project focused on sentiment classification and interactive visua
 
 Academic marketplace application for plywood products.
 
-**Features:**
+**Features**
 - Product Listing
 - Shopping Cart
 - Authentication
@@ -230,19 +250,6 @@ Academic marketplace application for plywood products.
 
 ---
 
-# 🐍 Contribution Activity
-
-<div align="center">
-
-<img
-  src="https://raw.githubusercontent.com/Priyanshu-1608-dubey/Priyanshu-1608-dubey/output/github-contribution-grid-snake-dark.svg"
-  alt="GitHub Contribution Snake"
-/>
-
-</div>
-
----
-
 # 🎓 Education
 
 ### 🎓 Master of Computer Applications — MCA
@@ -263,14 +270,18 @@ Computer Science
 
 # 🏆 Certifications
 
+<div align="center">
+
 | Certification | Platform |
 |---|---|
-| Data Analytics Essentials | Cisco Networking Academy |
-| Python 101 for Data Science | Cognitive Class |
-| SQL for Data Analysis | Simplilearn |
-| Python (Basic) | HackerRank |
-| Tata Data Visualisation Job Simulation | Forage |
-| AI For All | AI Appreciate |
+| 📊 Data Analytics Essentials | Cisco Networking Academy |
+| 🐍 Python 101 for Data Science | Cognitive Class |
+| 🗃️ SQL for Data Analysis | Simplilearn |
+| 🐍 Python (Basic) | HackerRank |
+| 📊 Tata Data Visualisation Job Simulation | Forage |
+| 🤖 AI For All | AI Appreciate |
+
+</div>
 
 ---
 
@@ -295,11 +306,14 @@ Computer Science
 
 <div align="center">
 
-📊 **Data Analytics** &nbsp;&nbsp;  
-📈 **Business Analytics** &nbsp;&nbsp;  
-💰 **Financial Analytics** &nbsp;&nbsp;  
-⚽ **Sports Analytics** &nbsp;&nbsp;  
-🤖 **Data Science** &nbsp;&nbsp;  
+📊 **Data Analytics** &nbsp; • &nbsp;
+📈 **Business Analytics** &nbsp; • &nbsp;
+💰 **Financial Analytics**
+
+<br><br>
+
+⚽ **Sports Analytics** &nbsp; • &nbsp;
+🤖 **Data Science** &nbsp; • &nbsp;
 📉 **Data Visualization**
 
 </div>
@@ -312,7 +326,7 @@ Computer Science
 
 I'm open to **data analytics projects, internships, collaborations and learning opportunities.**
 
-<br>
+<br><br>
 
 <a href="https://www.linkedin.com/in/priyanshudubey1608">
 <img src="https://img.shields.io/badge/LinkedIn-Priyanshu%20Dubey-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
@@ -330,9 +344,9 @@ I'm open to **data analytics projects, internships, collaborations and learning 
 
 **Learn • Analyze • Build • Grow**
 
-<br>
+<br><br>
 
-⭐ Thanks for visiting my profile!
+⭐ **Thanks for visiting my profile!**
 
 <br><br>
 
