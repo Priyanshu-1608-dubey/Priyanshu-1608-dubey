@@ -4,7 +4,263 @@
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2800&pause=900&color=58A6FF&center=true&vCenter=true&width=850&lines=Data+Analytics+%7C+Data+Science;Python+%7C+SQL+%7C+Pandas+%7C+Power+BI;Turning+Raw+Data+into+Insights;Learning+%7C+Building+%7C+Growing" alt="Typing Animation"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&d<div align="center">
+
+<!-- ===================== TOP HEADER ===================== -->
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=280&section=header&text=PRIYANSHU%20DUBEY&fontSize=58&fontAlignY=36&desc=MCA%20%7C%20DATA%20ANALYTICS%20%7C%20ASPIRING%20DATA%20SCIENTIST&descAlignY=58&descSize=18&animation=fadeIn&fontColor=ffffff&color=0:050B14,45:0D1B2A,75:123B66,100:1F6FEB" width="100%"/>
+
+<br>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2800&pause=900&color=58A6FF&center=true&vCenter=true&width=850&lines=Data+Analytics+%7C+Data+Science;Python+%7C+SQL+%7C+Pandas+%7C+Power+BI;Turning+Raw+Data+into+Insights;Learning+%7C+Building+%7C+Growing" />
+
+<br><br>
+
+<img src="assets/profile.jpg.jpeg" width="150" style="border-radius:50%;" />
+
+<br><br>
+
+<a href="https://www.linkedin.com/in/priyanshudubey1608">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://github.com/Priyanshu-1608-dubey">
+<img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="mailto:dubeypriyanshu58463@gmail.com">
+<img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<br><br>
+
+<img src="https://komarev.com/ghpvc/?username=Priyanshu-1608-dubey&label=PROFILE%20VIEWS&color=1F6FEB&style=for-the-badge"/>
+
+<br><br>
+
+</div>
+
+---
+
+# 👋 About Me
+
+Hi, I'm **Priyanshu Dubey**, an **MCA student** focused on **Data Analytics and Data Science**.
+
+I enjoy working with data to discover patterns, generate insights and solve practical problems using **Python, SQL, visualization and statistical analysis**.
+
+```text
+        RAW DATA
+            ↓
+      CLEAN & EXPLORE
+            ↓
+       ANALYZE DATA
+            ↓
+     VISUALIZE INSIGHTS
+            ↓
+       MAKE DECISIONS
+
+🎯 Career Direction: Data Analytics → Data Science
+
+⚡ Quick Overview
+<div align="center">
+🎓 Education	📊 Focus	🐍 Core Skill	📍 Based In
+MCA'28	Data Analytics	Python	Pune, India
+</div>
+🛠️ Tech Stack
+<div align="center">
+🐍 Programming & Tools
+<img src="https://skillicons.dev/icons?i=python,postgres,git,github,vscode&theme=dark"/>
+
+<br><br>
+
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/> <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/> <img src="https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=postgresql&logoColor=white"/>
+
+<br><br>
+
+📊 Analytics & Visualization
+<img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/> <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/> <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge"/> <img src="https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge"/> <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/>
+
+<br><br>
+
+💻 Development
+<img src="https://skillicons.dev/icons?i=html,css,js,react,typescript&theme=dark"/> </div>
+🚀 What I'm Working On
+<div align="center"> <table> <tr> <td width="50%" valign="top">
+📊 Data Analytics
+Exploratory Data Analysis
+Data Cleaning
+Business Insights
+Dashboard Development
+Statistical Analysis
+</td> <td width="50%" valign="top">
+🤖 Data Science
+Python for Data Science
+Machine Learning
+Predictive Analytics
+Feature Engineering
+Practical ML Projects
+</td> </tr> </table> </div>
+💼 Experience
+⚽ Sports Analyst — Hudl India Pvt Ltd
+
+April 2026 – May 2026
+
+Worked on sports data and football match analysis.
+
+⚽ Tagged football match events
+🔍 Performed data validation and quality checks
+📊 Worked with player & match performance data
+📈 Prepared performance reports
+
+Sports Analytics Data Validation Quality Assurance
+
+📊 Data Science & Analytics Intern — Amdox Technologies
+
+December 2025 – March 2026
+
+Worked on data analysis, processing and reporting.
+
+🐍 Cleaned datasets using Python & Excel
+🔎 Performed exploratory data analysis
+📈 Identified patterns and trends
+📑 Prepared analytical reports
+
+Python Excel EDA Data Cleaning
+
+📈 Junior Data Analyst — Yuva Intern
+
+December 2025
+
+Focused on financial analytics using Python.
+
+💰 Financial data analysis
+📊 Market data exploration
+📉 Risk & return analysis
+📈 Stock performance analysis
+
+Python Pandas NumPy Financial Analytics
+
+📊 Data Analyst — Oasis Infobyte
+
+November 2025 – December 2025
+
+🧹 Data cleaning
+🔎 Exploratory analysis
+📊 Data visualization
+💡 Business insights
+
+Data Analytics EDA Visualization
+
+🚀 Featured Projects
+<div align="center">
+📊 Sales Data Analysis
+
+Python • SQL • Pandas • Matplotlib
+
+Analyzed sales data to understand revenue trends, product performance and business insights.
+
+Data Cleaning EDA Trend Analysis Visualization
+
+<br>
+📈 Financial Data Analysis
+
+Python • Pandas • NumPy • Matplotlib
+
+Explored financial market data and analyzed stock performance, returns and risk-related metrics.
+
+VaR Beta Sharpe Ratio Returns
+
+<br>
+🔎 Insurance Fraud Analysis
+
+IBM Watson Studio • Data Refinery
+
+Explored insurance claim data to identify patterns associated with potentially fraudulent claims.
+
+Data Preparation Feature Creation EDA Claim Analysis
+
+<br>
+💬 Sentiment Analysis
+
+Python • NLTK • TextBlob • Dash
+
+NLP project focused on text preprocessing, sentiment classification and visualization.
+
+NLP TextBlob NLTK Sentiment Analysis
+
+<br>
+🛒 Plywood Marketplace
+
+React • TypeScript • Vite • TailwindCSS • Drizzle ORM
+
+Academic marketplace application for plywood products.
+
+Product Listing Cart Authentication Responsive UI Database
+
+</div>
+📊 GitHub Analytics
+<div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Priyanshu-1608-dubey&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true" height="180"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Priyanshu-1608-dubey&layout=compact&theme=github_dark&hide_border=true&langs_count=8" height="180"/>
+
+<br><br>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Priyanshu-1608-dubey&theme=github-dark-blue&hide_border=true" width="70%"/> </div>
+🎓 Education
+🎓 Master of Computer Applications — MCA
+
+Savitribai Phule Pune University
+
+September 2026 – April 2028
+
+🎓 Bachelor of Science — Information Technology
+
+University of Mumbai
+
+June 2022 – April 2025
+
+🏫 Higher Secondary Education
+
+Maharashtra State Board
+
+July 2020 – April 2022
+
+🏆 Certifications
+<div align="center"> <img src="https://img.shields.io/badge/Data_Analytics_Essentials-Cisco-1F6FEB?style=for-the-badge"/> <img src="https://img.shields.io/badge/Python_101-Cognitive_Class-3776AB?style=for-the-badge"/> <img src="https://img.shields.io/badge/SQL_for_Data_Analysis-Simplilearn-FF6B00?style=for-the-badge"/> <img src="https://img.shields.io/badge/Python_Basic-HackerRank-2EC866?style=for-the-badge"/> <img src="https://img.shields.io/badge/Data_Visualisation-Forage-161B22?style=for-the-badge"/> <img src="https://img.shields.io/badge/AI_For_All-AI_Appreciate-58A6FF?style=for-the-badge"/> </div>
+📚 Currently Learning
+<div align="center">
+Area	Focus
+🐍 Python	Advanced Data Analysis
+🗃️ SQL	Complex Queries & Analytics
+📊 Power BI	Interactive Dashboards
+📐 Statistics	Statistical Analysis
+🤖 Machine Learning	Supervised Learning
+🧠 Data Science	End-to-End Workflows
+</div>
+🎯 Areas of Interest
+<div align="center">
+
+📊 Data Analytics   •  
+📈 Business Analytics   •  
+💰 Financial Analytics
+
+<br><br>
+
+⚽ Sports Analytics   •  
+🤖 Data Science   •  
+📉 Data Visualization
+
+</div>
+<!-- ===================== CONNECT ===================== --> <div align="center">
+🤝 Let's Connect
+Open to Data Analytics • Data Science • Internships • Collaborations
+<br> <a href="https://www.linkedin.com/in/priyanshudubey1608"> <img src="https://img.shields.io/badge/LinkedIn-Priyanshu_Dubey-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/> </a> <a href="https://github.com/Priyanshu-1608-dubey"> <img src="https://img.shields.io/badge/GitHub-Priyanshu--1608--dubey-181717?style=for-the-badge&logo=github&logoColor=white"/> </a> <a href="mailto:dubeypriyanshu58463@gmail.com"> <img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white"/> </a>
+
+<br><br>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Learn+%E2%80%A2+Analyze+%E2%80%A2+Build+%E2%80%A2+Grow;Thanks+for+visiting+my+profile!" />
+
+<br><br>
+
+<!-- ===================== FOOTER ===================== --> <img src="https://capsule-render.vercel.app/api?type=waving&height=180&section=footer&color=0:1F6FEB,35:123B66,70:0D1B2A,100:050B14&animation=fadeIn" width="100%"/> </div> ```uration=2800&pause=900&color=58A6FF&center=true&vCenter=true&width=850&lines=Data+Analytics+%7C+Data+Science;Python+%7C+SQL+%7C+Pandas+%7C+Power+BI;Turning+Raw+Data+into+Insights;Learning+%7C+Building+%7C+Growing" alt="Typing Animation"/>
 
 <br><br>
 
